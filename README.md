@@ -2,7 +2,7 @@
 - 👀 I’m interested in hydrology, water resources, and climate change and how social-political systems interact with each. 
 - 🌱 I’m currently learning python, GIS, and machine learning.
 - 💞️ I’m looking to collaborate on python and GIS. 
-- 📫 How to reach me ...
+- 📫 Contact me via email!
 
 <!---
 hunterjohnson05/hunterjohnson05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
