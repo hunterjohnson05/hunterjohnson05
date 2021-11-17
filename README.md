@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hunterjohnson05
-- 👀 I’m interested in hydrology, water resources, and climate change and how social-political systems interact with each. 
-- 🌱 I’m currently learning python, GIS, and machine learning.
-- 💞️ I’m looking to collaborate on python and GIS. 
+- 👋 Hi, I’m Hunter A. Johnson (@hunterjohnson05).
+- 👀 I’m interested in the confluence between hydrology and climate change, and the social effects each causes. 
+- 🌱 I’m currently learning machine learning and creating new python tools for computational hydrologist.
+- 💞️ I’m looking to collaborate on projects about hydrology, climate change, or machine learning. 
 - 📫 Contact me via email!
 
 <!---
