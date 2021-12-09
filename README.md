@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hunter A. Johnson (@hunterjohnson05).
-- 👀 I’m interested in the confluence between hydrology and climate change, and the social effects each causes. 
+- 👀 I’m interested in the confluence between hydrology and climate change and using new big datasets to understand their interactions. 
 - 🌱 I’m currently learning machine learning and creating new python tools for computational hydrologist.
 - 💞️ I’m looking to collaborate on projects about hydrology, climate change, or machine learning. 
 - 📫 Contact me via email!
